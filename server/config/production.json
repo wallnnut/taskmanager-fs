@@ -1,0 +1,6 @@
+{
+	"port": "8080",
+	"mongoUri": "mongodb+srv://marat:rpg-1384336@cluster0.buptdrc.mongodb.net/?retryWrites=true&w=majority",
+	"accessKey": "wdasdwaYUWDY@e2da",
+	"refreshKey": "dasda2312WDLLJIHGBJ"
+}

@@ -1,0 +1,26 @@
+[
+	{
+		"_id": "6jXvQ3MudejZhJVzrgIYJ",
+		"name": "Срочные и Неважные",
+		"color": "warning-subtle"
+
+	},
+	{
+		"_id": "PSH4ZRfEa2sCI21QJQFnh",
+		"name": "Срочные и Важные",
+		"color": "danger"
+
+	},
+	{
+		"_id": "PSH4ZRfEa2sCI21QJQFnh",
+		"name": "Несрочные и Важные",
+		"color": "warning"
+
+	},
+	{
+		"_id": "kIDJfEr87JME0IYXMNuuP",
+		"name": "Несрочные и Неважные",
+		"color": "light-subtle"
+		
+	}
+]
